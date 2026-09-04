@@ -153,48 +153,6 @@
 
 ---
 
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=antricki&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antricki&layout=compact&hide_border=true&theme=transparent" />
-
-<br>
-
-<img src="https://streak-stats.demolab.com?user=antricki&theme=transparent&hide_border=true" />
-
-</div>
-
----
-
-# 📈 Mi actividad en GitHub
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=antricki&theme=github-compact&hide_border=true&area=true" />
-
-</div>
-
----
-
-# 🚀 Proyectos destacados
-
-### 🔌 API REST — Node.js + Express + SQLite
-
-Proyecto orientado al desarrollo de una **API REST**, trabajando con Node.js, Express y SQLite.
-
-👉 [Ver repositorio](https://github.com/antricki/APIREST-NODE-EXPRESS-SQLITE)
-
-### 🌐 Proyecto DIW 2022-23
-
-Proyecto web desarrollado durante el módulo de **Desarrollo de Interfaces Web**.
-
-👉 [Ver repositorio](https://github.com/antricki/PROYECTO-DIW-2022-23)
-
----
-
 # 📚 Formación
 
 | Formación                    | Área                                                  |
