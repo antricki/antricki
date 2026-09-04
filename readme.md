@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 ¡Bienvenid@s a mi perfil! 🦋
+# 👋 ¡Bienvenid@s a mi perfil! 
 
 ### Hola 👋, mi nombre es **Toni Camarena Ivars**
 
@@ -12,7 +12,7 @@
 
 ---
 
-## 🧑‍💻 Sobre mí ❤️
+## 🧑‍💻 Sobre mí 
 
 🎓 **Ingeniero Informático** de profesión.
 🛡️ **Especialización en Ciberseguridad**.
